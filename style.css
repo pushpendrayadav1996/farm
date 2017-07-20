@@ -314,7 +314,7 @@ body{
 	              display: flex;
 	              align-items:flex-end;
 	              padding: 2px 15px;
-	              background-image:url(file:///D:/Dinesh%20Documents/html/yadav%20farm%20house/fl.jpg);
+	              background-image:url(fl.jpg);
 	              background-size:cover;
 	              height:250px;
 	              background-position:0px -50px;
@@ -373,7 +373,7 @@ body{
 	              display: flex;
 	              align-items:flex-end;
 	              padding: 2px 15px;
-		          background:url(file:///D:/Dinesh%20Documents/html/yadav%20farm%20house/pearl-millet.jpg);
+		          background:url(pearl-millet.jpg);
 		          height:250px;
 		          background-size:cover;
 		          border-radius: 5px;
@@ -419,7 +419,7 @@ body{
 .wheat_image{
 	          display: flex;
 	          align-items:flex-end;
-	          background:url(file:///D:/Dinesh%20Documents/html/yadav%20farm%20house/wheat.jpg);
+	          background:url('wheat.jpg');
 	          height:250px;
 		      background-size:cover;
 		      border-radius: 5px;
