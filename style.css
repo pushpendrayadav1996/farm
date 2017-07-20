@@ -6,7 +6,7 @@ body{
 
 .image{   
 
-	   background-image:url(start.jpg);
+	   background-image:url('start.jpg');
        background-repeat:no-repeat;
 	   background-size:cover;
 	   height:100vh; 
@@ -314,7 +314,7 @@ body{
 	              display: flex;
 	              align-items:flex-end;
 	              padding: 2px 15px;
-	              background-image:url(fl.jpg);
+	              background-image:url('fl.jpg');
 	              background-size:cover;
 	              height:250px;
 	              background-position:0px -50px;
@@ -373,7 +373,7 @@ body{
 	              display: flex;
 	              align-items:flex-end;
 	              padding: 2px 15px;
-		          background:url(pearl-millet.jpg);
+		          background:url('pearl-millet.jpg');
 		          height:250px;
 		          background-size:cover;
 		          border-radius: 5px;
@@ -464,7 +464,7 @@ body{
 
 
 .main-sixth-div{
-	            background:url(startz.jpg); 
+	            background:url('startz.jpg'); 
 	            background-size:cover;
 	            min-height:677px;
 	            width: 100%;
